@@ -4,3 +4,8 @@
 *.jar
 *.war
 *.ear
+*.metadata
+*.prefs
+
+*.jobs.JsonJobsTest.xml
+*.jobs.JsonJobsTest.txt
